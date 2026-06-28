@@ -23,7 +23,7 @@ export const SocketProvider = ({ children }) => {
       return;
     }
 
-    const wsUrl = import.meta.env.VITE_WS_URL || 'http://localhost:8080/ws';
+    const wsUrl = import.meta.env.VITE_WS_URL || 'https://azentrix-fullstack-task2-49qq.onrender.com/ws';
     console.log('Connecting to WebSocket at:', wsUrl);
     
     const socket = new SockJS(wsUrl);
