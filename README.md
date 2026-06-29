@@ -4,6 +4,27 @@ A production-ready, lightweight Kanban board task management system ("Mini Trell
 
 ---
 
+## 🔗 Project Links & Walkthrough
+
+- **GitHub Repository**: [github.com/venkatapavan-gudari/azentrix-fullstack-task2](https://github.com/venkatapavan-gudari/azentrix-fullstack-task2)
+- **Live Application**: [multi-user-task-manager.vercel.app](https://multi-user-task-manager.vercel.app/)
+- **Loom Video Walkthrough**: [Loom Video Link](https://www.loom.com/share/e7ffc526b9434434a43b793737116870)
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Landing Page
+![Landing Page](screenshots/landing.png)
+
+### 📊 Project Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📋 Kanban Board (Real-Time Sync)
+![Kanban Board](screenshots/kanban.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Backend**: Spring Boot 3.2.5, Spring Security (JWT), Spring Data JPA, MySQL, Spring STOMP WebSockets, Lombok.
